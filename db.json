@@ -1,4 +1,4 @@
-{
+[{
   "key": 1,
   "value": "hello"
 },
@@ -14,3 +14,4 @@
   "key": 4,
   "value": "hello4"
 }
+]
